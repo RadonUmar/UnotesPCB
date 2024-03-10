@@ -1,0 +1,17 @@
+#content{
+    width: 800px;
+    height: 1000px;
+    padding: 5px;
+    text-align:left;
+    font-size: x-large;
+    background-color:darkslategray;
+    border-style: solid;
+    border-color:gray;
+    font-family:sans-serif;
+    color:white;
+  }
+  @media only screen and (max-width: 600px) {
+    #inc {
+      display: inline;
+    }
+  }
